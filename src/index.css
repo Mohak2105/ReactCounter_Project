@@ -73,8 +73,9 @@ li span {
   position: fixed;
   z-index: 1;
   width: 100%;
-  display: none;
+  display: flex; /* show flex to center */
 }
+
 
 .modal-content {
   height: 100vh;
