@@ -1,3 +1,30 @@
+# ⚡ React Counter App
+
+A simple and responsive **React Counter Application** with the following features:
+- ➕ Increment counter  
+- ➖ Decrement counter  
+- 🔄 Reset counter (with confirmation modal)  
+- 🎨 Dark theme styling  
+
+
+## 🚀 Features
+- **Increment/Decrement** the counter value with Material Symbols icons.  
+- **Reset with confirmation** → clicking reset (`refresh` icon) opens a modal asking for confirmation before resetting to zero.  
+- **Modal Design** → Centered reset confirmation modal with "Yes" and "Cancel" buttons.  
+- **Responsive** → Adjusts font sizes and layout on smaller screens.  
+- **Dark Mode Styling** (black background, white text).  
+
+
+react-counter-app/
+│── src/
+│   ├── Counter.jsx  
+│   ├── App.js        
+│   ├── App.css       
+│   └── index.js      
+│
+└── README.md        
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
